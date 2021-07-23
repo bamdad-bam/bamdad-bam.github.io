@@ -1,7 +1,5 @@
 ## Welcome to Bamdad team of Bam group
 
-You can use the [editor on GitHub](https://github.com/bamdad-bam/bamdad.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 Join to Bamdad team with sent resume [Amin Ghorbani](mailto:a.ghorbani@sadad.co.ir), Welcome to Bamdad :).
 
 ### Bamdad team
